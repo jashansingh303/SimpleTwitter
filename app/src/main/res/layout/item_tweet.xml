@@ -38,4 +38,11 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constrainedWidth="true"
         tools:text="Today i had a very good day. It was very fun I watched some good stuff" />
+
+    <TextView
+        android:id="@+id/tvTimeStamp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="@+id/tvTweetBody"
+        app:layout_constraintTop_toTopOf="@+id/tvUserName" />
 </androidx.constraintlayout.widget.ConstraintLayout>
