@@ -1,5 +1,7 @@
 # Project 2 - SimpleTwitter
 
+Week 2
+
 SimpleTwitter is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
 Time spent: **10** hours spent in total
@@ -34,6 +36,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough3.gif' title='Video Walkthrough' width='250px' alt='Video Walkthrough' />
 
+
+Week 1
 ## User Stories
 
 The following **required** functionality is completed:
